@@ -1,8 +1,0 @@
-node_modules
-dist
-# .env is deliberately included during build to bake in VITE_ variables
-# .env
-.git
-.gitignore
-README.md
-npm-debug.log
